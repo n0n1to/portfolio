@@ -18,4 +18,4 @@ El proyecto está desarrollado utilizando tecnologías web base (Vanilla), sin n
 
 *   **HTML5:** Encargado de la estructura y semántica de la web.
 *   **CSS3:** Utilizado para los estilos visuales. Emplea diseño en Flexbox, esquemas de color oscuros, bordes redondeados y efectos interactivos (hover) en los botones de contacto.
-*   **JavaScript:** Añade interactividad en el lado del cliente (Frontend). Actualmente gestiona la lógica del botón interactivo de "Me gusta" y su contador.
+*   **JavaScript:** Añade interactividad en el lado del cliente (Frontend)
