@@ -1,6 +1,6 @@
 # Portafolio
 
-Bienvenido al repositorio de mi portafolio personal. Este proyecto es una página web sencilla diseñada para presentar mi perfil
+Bienvenido al repositorio de mi portafolio personal. Este proyecto es una página web sencilla diseñada para presentarme a mi mismo
 
 ## 🚀 Sobre el Proyecto
 
