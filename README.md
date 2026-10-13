@@ -2,7 +2,7 @@
 
 Bienvenido al repositorio de mi portafolio personal. Este proyecto es una página web sencilla diseñada para presentarme a mi mismo
 
-## 🚀 Sobre el Proyecto
+## Sobre el Proyecto
 
 El objetivo principal de esta web es mostrar mi experiencia, conocimientos técnicos y formas de contacto de manera clara y directa. Cuenta con un diseño estructurado en tarjetas (cards) y un esquema de colores en modo oscuro absoluto para evitar la fatiga visual.
 
@@ -12,7 +12,7 @@ El objetivo principal de esta web es mostrar mi experiencia, conocimientos técn
 - **Experiencia Profesional/Académica:** Detalles cronológicos sobre mis estudios y trabajos
 - **Contacto:** Enlaces directos a mi GitHub, LinkedIn y correo electrónico, maquetados como botones interactivos.
 
-## 🛠️ Tecnologías Integradas
+## Tecnologías Integradas
 
 El proyecto está desarrollado utilizando tecnologías web base (Vanilla), sin necesidad de frameworks pesados, lo que lo hace muy ligero:
 
